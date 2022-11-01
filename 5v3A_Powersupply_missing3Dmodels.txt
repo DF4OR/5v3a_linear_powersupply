@@ -1,0 +1,29 @@
+### Missing 3D models - created on 2022-10-16 20:59
+### Printed by checking_3D_models plugin
+Board file: /home/ekki/SyncProj/5v3A_Powersupply/5v3A_Powersupply.kicad_pcb
+3D missing models written to:
+/home/ekki/SyncProj/5v3A_Powersupply/5v3A_Powersupply_missing3Dmodels.txt
+-------
+('C4', '/usr/share/kicad/3dmodels/Capacitor_THT.3dshapes/C_Rect_L18.0mm_W6.0mm_P15.00mm_FKS3_FKP3.wrl')
+('J2', '/usr/share/kicad/3dmodels/TerminalBlock_WAGO.3dshapes/TerminalBlock_WAGO_236-402_1x02_P5.00mm_45Degree.wrl')
+('U1', '/usr/share/kicad/3dmodels/Package_TO_SOT_THT.3dshapes/TO-262-3_Vertical.wrl')
+('C6', '/usr/share/kicad/3dmodels/Capacitor_THT.3dshapes/C_Rect_L18.0mm_W6.0mm_P15.00mm_FKS3_FKP3.wrl')
+('D5', '/usr/share/kicad/3dmodels/Diode_THT.3dshapes/D_DO-201AD_P15.24mm_Horizontal.wrl')
+('D2', '/usr/share/kicad/3dmodels/Diode_THT.3dshapes/D_DO-201AD_P15.24mm_Horizontal.wrl')
+('C8', '/usr/share/kicad/3dmodels/Capacitor_THT.3dshapes/CP_Radial_D16.0mm_P7.50mm.wrl')
+('D4', '/usr/share/kicad/3dmodels/Diode_THT.3dshapes/D_DO-201AD_P15.24mm_Horizontal.wrl')
+('D1', '/usr/share/kicad/3dmodels/Diode_THT.3dshapes/D_DO-201AE_P15.24mm_Horizontal.wrl')
+('C2', '/usr/share/kicad/3dmodels/Capacitor_THT.3dshapes/C_Rect_L18.0mm_W6.0mm_P15.00mm_FKS3_FKP3.wrl')
+('C7', '/usr/share/kicad/3dmodels/Capacitor_THT.3dshapes/CP_Radial_D16.0mm_P7.50mm.wrl')
+('C3', '/usr/share/kicad/3dmodels/Capacitor_THT.3dshapes/C_Rect_L18.0mm_W6.0mm_P15.00mm_FKS3_FKP3.wrl')
+('C1', '/usr/share/kicad/3dmodels/Capacitor_THT.3dshapes/C_Rect_L18.0mm_W6.0mm_P15.00mm_FKS3_FKP3.wrl')
+('R1', '/usr/share/kicad/3dmodels/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal.wrl')
+('D3', '/usr/share/kicad/3dmodels/Diode_THT.3dshapes/D_DO-201AD_P15.24mm_Horizontal.wrl')
+('C11', '/usr/share/kicad/3dmodels/Capacitor_THT.3dshapes/CP_Radial_D16.0mm_P7.50mm.wrl')
+('C5', '/usr/share/kicad/3dmodels/Capacitor_THT.3dshapes/CP_Radial_D16.0mm_P7.50mm.wrl')
+('C10', '/usr/share/kicad/3dmodels/Capacitor_THT.3dshapes/CP_Radial_D18.0mm_P7.50mm.wrl')
+('C9', '/usr/share/kicad/3dmodels/Capacitor_THT.3dshapes/CP_Radial_D16.0mm_P7.50mm.wrl')
+('J1', '/usr/share/kicad/3dmodels/TerminalBlock_WAGO.3dshapes/TerminalBlock_WAGO_236-103_1x03_P5.00mm_45Degree.wrl')
+-------
+NUM of 3D missing models:20
+checked extensions ['.stp', '.step', '.stpZ']
